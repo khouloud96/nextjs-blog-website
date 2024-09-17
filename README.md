@@ -25,3 +25,9 @@ We only use them to load blog posts, users can't interact with them to change th
 - npm install gray-matter
 
 This package allows us to read a markdown file and split it into metadata and the actual markdown content.
+
+## Rendering code Snippets From Markdown
+
+- npm install react-syntax-highlighter
+
+This package allows us to render code snippets from Markdown file. It makes highlighting code very simple.
